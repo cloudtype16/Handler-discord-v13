@@ -1,5 +1,5 @@
 {
-  "name": "cloud",
+  "name": "api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -14,15 +14,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/reconlx/djs-base-handler.git"
-  },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/reconlx/djs-base-handler/issues"
-  },
-  "homepage": "https://github.com/reconlx/djs-base-handler#readme"
+  "license": "ISC"
 }
